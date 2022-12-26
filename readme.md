@@ -4,4 +4,4 @@
 
 `Replicate the Hosting Landing Page`
 
-![Project 2](./Hosting%20Landing%20Page.png)
+![Project 8](./Hosting%20Landing%20Page.png)
