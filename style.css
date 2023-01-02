@@ -1,0 +1,280 @@
+* body{
+
+    /* background-color: black; */
+    width: 1335px;
+    font-family: sans-serif;
+}
+
+.firstpage{
+    background-color: black;
+    color: white;
+    
+}
+
+.navbar{
+    padding: 25px 70px;
+    display: flex;
+    justify-content: center;
+    gap: 100px  ;
+    color: rgb(155, 151, 151);
+    font-weight: bold;
+    align-items: center;
+}
+
+.ul{
+    display: flex;
+    list-style: none;
+    gap: 30px   ;
+}
+
+#logo{
+    position: absolute;
+    left: 100px;
+}
+
+#login{
+    height: 50px;
+    width: 120px;
+    background-color: hwb(212 21% 5%);
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: 75px;
+}
+
+.belownav{
+    margin: 80px 90px;
+    display: flex;
+    gap: 90px   ;
+    padding-bottom: 90px;
+}
+
+.leftsection{
+    width: 700px;
+    margin-top: -50px;
+}
+
+#heading{
+    font-size: 60px;
+    line-height: 80px;
+}
+
+#cheap{
+    color: rgb(0, 81, 255);
+}
+#para{
+    color: gray;
+    font-size: 20px;
+    line-height: 35px;
+    margin-top: -20px;
+}
+
+#btn1{
+    height:60px  ;
+    width: 180px;
+    margin-top: 35px;
+    margin-left: 25px;
+    background-color: hwb(212 21% 5%);
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: -25px;
+}
+#btn2{
+    height:60px  ;
+    width: 180px;
+    margin-top: 35px;
+    margin-left: 25px;
+    background-color: black;
+    border-radius: 40px;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: -25px;
+}
+
+.belowbar{
+    margin-top: -80px;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(17, 17, 17);
+    padding: 40px 0px;
+    gap: 140px  ;
+}
+
+.secondpage{
+    /* background-color: black; */
+    margin-top: -21px;
+    padding: 130px 100px 90px 90px;
+    
+}
+#secondh1{
+    font-size: 60px;
+    text-align: center;
+}
+#secondp{
+    text-align: center;
+    color: gray;
+    margin-top: -10px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.box3{
+    display: flex;
+   margin-top: 120px;
+   margin-bottom: 120px;
+   justify-content: center;
+   gap: 60px;
+}
+.box1st{
+    border: 2px solid rgb(219, 214, 214);
+   text-align: center;
+   padding:30px 35px;
+   padding-bottom: 40px;
+   border-radius: 35px;
+   width: 280px;
+}
+#boxp1st{
+    font-size: 19px;
+    line-height: 28px;
+    color: gray;
+}
+
+.box2nd{
+    border: 2px solid rgb(219, 214, 214);
+   text-align: center;
+   padding:30px 25px;
+   padding-bottom: 40px;
+   border-radius: 35px;
+   background-color: black;
+   width: 280px;
+   position: relative;
+   bottom: 50px;
+}
+
+#boxp2nd{
+    font-size:19px;
+    line-height:28px;
+    color: gray;
+}
+#boxh22nd{
+    color: white;
+}
+
+.box3rd{
+    border: 2px solid rgb(219, 214, 214);
+   text-align: center;
+   padding:30px 25px;
+   padding-bottom: 40px;
+   border-radius: 35px;
+   width: 280px;
+}
+#boxp3rd{
+    font-size: 19px;
+    line-height: 28px;
+    color: gray;
+}
+
+#secondpageh1{
+    font-size: 50px;
+    line-height: 70px;
+}
+
+.buttongroupleft{
+    display: flex;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.whitebtn{
+    /* display: flex; */
+    width: 650px;
+    
+}
+
+#btn11{
+    width: 650px;
+    height: 100px;
+    background-color: hwb(212 21% 5%);
+    text-align: left;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    border-radius: 50px;
+    border: none;
+    margin-bottom: 25px;
+}
+
+#btn11img{
+    position: relative;
+    left: 300px;
+    top: 15px;
+}
+
+#btn22{
+    width: 650px;
+    height: 100px;
+    background-color: white;
+    text-align: left;
+    align-items: center;
+    color:black;
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    border-radius: 50px;
+    border: 1px solid gray;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+#btn22img{
+    position: relative;
+    left: 263px;
+    top: 15px;
+}
+
+#btn23img{
+    position: relative;
+    left: 25px;
+    top: 15px;
+}
+
+#btn24img{
+    position: relative;
+    left: 263px;
+    top: 15px;
+}
+
+#btn25img{
+    position: relative;
+    left: 100px;
+    top: 15px;
+}
+
+.buttongroupright{
+    width: 630px;
+    background-color: black;
+    justify-content: center;
+    padding: 30px 20px;
+    border-radius: 40px;
+}
+
+#btnli{
+    width: 430px;
+    height: 62px;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(45, 46, 46);
+    border-radius: 40px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
