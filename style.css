@@ -278,3 +278,351 @@
     padding-left: 25px;
     margin-bottom: 10px;
 }
+
+.page3rd{
+    background-color: black;
+    color: white;
+    padding: 120px 120px;
+}
+.upper3rd{
+    display: flex;
+    gap: 120px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 30px;
+}
+#h13rd{
+    font-size: 50px;
+    line-height: 75px;
+    margin-top: -60px;
+}
+
+.threesidepage{
+    padding-top: 60px;
+    display: flex;
+    gap: 30px;
+}
+
+.firstsidepage{
+    background-color: white;
+    color: gray;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+#firstsidepageh1{
+    color: black;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+#firstsidepageh2{
+    font-size: 60px;
+    color: black;
+    margin: 15px 0px;
+}
+#firstsidepageh2mon{
+    font-size: 30px;
+    color: gray;
+}
+#firstsidepagep{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+}
+#firstsidepagep2{
+    font-weight: bold;
+    color: rgb(235, 223, 223);
+}
+.firstsidepageul{
+    list-style: none;
+    padding-left: 12px;
+    line-height: 40px;
+    align-items: center;
+    color: rgb(77, 75, 75);
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 40px;
+}
+#firstsidepageli{
+    padding-right: 12px;
+    position: relative;
+    top: 5px;
+}
+#firstsidepagebtn{
+    padding: 20px 115px;
+    margin: 20px 10px;
+    border-radius: 35px;
+    background-color: hwb(212 21% 5%);
+    font-size: 20px;
+    color: white;
+    border: none;
+}
+
+.secondsidepage{
+    background-color: hwb(212 21% 5%);
+    color: white;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+#secondsidepageh1{
+    /* color: black; */
+    font-weight: bolder;
+    margin-top: 10px;
+}
+#secondsidepageh2{
+    font-size: 60px;
+    /* color: black; */
+    margin: 15px 0px;
+}
+#secondsidepageh2mon{
+    font-size: 30px;
+    color: rgb(218, 212, 212);
+}
+#secondsidepagep{
+    /* color: black; */
+    font-weight: 20px;
+    font-size: 15px;
+    line-height: 20px;
+}
+#secondsidepagep2{
+    font-weight: bold;
+    color: hwb(212 46% 5%);
+}
+.secondsidepageul{
+    list-style: none;
+    padding-left: 12px;
+    line-height: 40px;
+    align-items: center;
+    /* color: rgb(77, 75, 75); */
+    font-weight: lighter;
+    justify-content: center;
+}
+#secondsidepageli{
+    padding-right: 12px;
+    position: relative;
+    top: 5px;
+}
+#secondsidepagebtn{
+    padding: 20px 115px;
+    margin: 20px 10px;
+    border-radius: 35px;
+    background-color: white;
+    font-size: 20px;
+    color: hwb(212 21% 5%);
+    border: none;
+}
+
+.thirdsidepage{
+    background-color: white;
+    color: gray;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+#thirdsidepageh1{
+    color: black;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+#thirdsidepageh2{
+    font-size: 60px;
+    color: black;
+    margin: 15px 0px;
+}
+#thirdsidepageh2mon{
+    font-size: 30px;
+    color: gray;
+}
+#thirdsidepagep{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+}
+#thirdsidepagep2{
+    font-weight: bold;
+    color: rgb(235, 223, 223);
+}
+.thirdsidepageul{
+    list-style: none;
+    padding-left: 12px;
+    line-height: 40px;
+    align-items: center;
+    color: rgb(77, 75, 75);
+    font-weight: bold;
+    justify-content: center;
+}
+#thirdsidepageli{
+    padding-right: 12px;
+    position: relative;
+    top: 5px;
+}
+#thirdsidepagebtn{
+    padding: 20px 115px;
+    margin: 20px 10px;
+    border-radius: 35px;
+    background-color: hwb(212 21% 5%);
+    font-size: 20px;
+    color: white;
+    border: none;
+}
+
+.rthpage{
+    padding: 90px 0px;
+    padding-left: 70px;
+}
+.rthupper{
+    display: flex;
+    gap: 170px;
+}
+#rthupperh1{
+    font-size: 60px;
+    line-height: 80px;
+}
+#rthupperp{
+    font-size: 23px;
+    color: rgb(150, 146, 146);
+    line-height: 35px;
+    margin-top: 60px;
+}
+
+.rthpageboxsection{
+    display: flex;
+    margin: 30px 0px;
+    gap: 35px;
+}
+.rthpageboxleft{
+    padding: 40px 30px;
+    background-color: black;
+    color: rgb(201, 198, 198);
+    border-radius: 30px;
+    font-size: 25px;
+    line-height: 40px;
+    width: 550px;
+}
+#rthpageleftname{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+#rthpageleftceo{
+    font-size: 20px;
+}
+
+.rthpageboxright{
+    padding: 40px 30px;
+    /* background-color: black; */
+    /* color: rgb(201, 198, 198); */
+    border-radius: 30px;
+    font-size: 28px;
+    line-height: 40px;
+    border: 1px solid rgb(204, 199, 199);
+    position: relative;
+    /* right: -80px; */
+}
+#rthpageboxrightname{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+#rthpageboxrightceo{
+    font-size: 20px;
+}
+
+.blank{
+    height: 8px;
+    /* background-color: hwb(212 21% 5%); */
+    display: flex;
+    padding-top: 50px;
+}
+
+#blankline2{
+    width: 1120px;
+    height: 8px;
+    background-color: rgb(233, 229, 229);
+    /* border-radius: 4px; */
+}
+#blankline1{
+    width: 150px;
+    height: 8px;
+    background-color: hwb(212 21% 5%);
+    border-radius: 4px;
+}
+
+.lastpage{
+    padding: 70px 80px;
+    background-color: black;
+    color: white;
+}
+#lastpageh1{
+    font-size: 55px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.lastpagebtn{
+    margin: 75px 0px;
+    pad: 70px 30px;
+    background-color: rgb(37, 37, 37);
+    padding: 35px 20px;
+    border-radius: 20px;
+}
+
+#lastpagebtn1{
+    width: 300px;
+    padding: 22px 0px;
+    padding-left: 24px;
+    margin-left: 20px;
+    text-align: left;
+    background-color: rgb(56, 55, 55);
+    color: rgb(170, 164, 164);
+    font-size: 20px;
+    border-radius: 40px;
+    border: none;
+}
+
+#lastpagebtn2{
+    width: 130px;
+    padding: 22px 0px;
+    /* padding-left: 24px; */
+    margin-left: 20px;
+    text-align: center;
+    background-color: hwb(212 21% 5%);
+    color: white;
+    font-size: 20px;
+    border-radius: 40px;
+    border: none;
+}
+
+#lastpageunderscore{
+    color: rgb(61, 60, 60);
+    font-weight: bold;
+}
+#lastpageunderscore2{
+    color: rgb(61, 60, 60);
+    font-weight: bold;
+}
+
+.lastpagefoot{
+    display: flex;
+    padding: 40px 0px;
+    color: rgb(184, 180, 180);
+    justify-content: center;
+    gap: 120px;
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 38px;
+    list-style: none;
+}
+
+.lastpageul{
+    list-style: none;
+}
+#ul1{
+    font-size: 20px;
+    color: rgb(235, 228, 228);
+    padding-bottom: 18px;
+}
+
+#lastpagelogo{
+    padding-top: 20px;
+}
